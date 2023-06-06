@@ -31,10 +31,10 @@ if __name__=="__main__":
         psg=psycopg_connect()
 
         #-------------------Set Credential
-        psg.host="localhost"
-        psg.database="paul_test"
-        psg.user="postgres"
-        psg.password="12345"
+        psg.host=parameters["Host"]
+        psg.database=parameters["Database"]
+        psg.user=parameters["Username"]
+        psg.password=parameters["Password"]
         
         psg.connect()
         ##--------------------test connection
