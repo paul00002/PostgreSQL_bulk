@@ -1,0 +1,21 @@
+{
+    "TenantId"         :"",
+    "ClientId"         :"",
+    "ClientSecret"     :"",
+    "URL_Connectin"    :"",
+    "FileSystemName"   :"",
+    "Path"             :"",
+
+    "Host"             :"",
+    "Username"         :"",
+    "Database"         :"",
+    "Port"             :"",
+    "Password"         :"",
+    "SSLMode"          :"",
+
+
+    "table_name"       :"",   
+    "batch"            :"1",   
+    "batch_size"       :"50000"            
+}
+
