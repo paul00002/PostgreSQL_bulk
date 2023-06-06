@@ -1,0 +1,16 @@
+{
+"adlsTenantId"       :"aa32aaa-322-111a-b1b1-11aa1a111a1",
+"adlsClientId"       :"11a111a1-1111-1111-11a1-a11111111aa",
+"adlsClientSecret"   :"aaa1a~aa1.aaaaaaaa_aaaa_1aaaaaaa",
+"adlsURL_Connectin"  :"https://???????????.dfs.core.windows.net",
+"adlsFileSystemName" :"adlsFileSystem",
+"adlsPath"           :"adlsPath",
+
+"Host"               :"11.11.11.11",
+"Username"           :"Username",
+"Dataase"            :"Dataase",
+"Port"               : 1111,
+"Password"           :"123456",
+"SSLMode"            :"Prefer",
+"table_name"         :"dbo.\"mytable\""
+}
