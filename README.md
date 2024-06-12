@@ -28,7 +28,7 @@ Questo progetto è progettato per connettersi ad un Azure Data Lake, prelevare f
 
 - .NET Core SDK
 - Python 3.x
-- Moduli Python: `azure-datalake-store`, `psycopg2`, `pandas`
+- Moduli Python: `azure-datalake-store`, `psycopg2`, `azure-identity`
 - Un database PostgreSQL configurato
 - Credenziali di accesso ad Azure Data Lake e PostgreSQL
 
